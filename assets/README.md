@@ -4,10 +4,7 @@ This folder collects the media that makes the project easier to understand.
 
 ## Demo Videos
 
-The demo videos are intended to be published on YouTube and linked from this section once the final edits are ready.
-
-- Scanning demo: `TODO`
-- Solving demo: `TODO`
+- [Combined scanning and solving demo](https://youtu.be/wWMvnwSBlZk)
 
 ## Sticker Mapping
 

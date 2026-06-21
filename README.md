@@ -4,6 +4,29 @@
 
 A LEGO EV3 Rubik's Cube solving robot system built with a custom Python ZZ-method solver and a full robot control pipeline.
 
+## Visual Preview
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/mapping/cube-layout.png" alt="Cube layout" width="220" /><br />
+      <strong>Cube layout</strong>
+    </td>
+    <td align="center">
+      <img src="assets/mapping/edge-sticker-mapping.png" alt="Edge sticker mapping" width="220" /><br />
+      <strong>Edge mapping</strong>
+    </td>
+    <td align="center">
+      <img src="assets/mapping/corner-sticker-mapping.png" alt="Corner sticker mapping" width="220" /><br />
+      <strong>Corner mapping</strong>
+    </td>
+  </tr>
+</table>
+
+Watch the combined demo video here:
+
+- [YouTube demo video](https://youtu.be/wWMvnwSBlZk)
+
 ## About
 
 This repository contains a custom ZZ-method Rubik's Cube solver and the EV3 MicroPython code that scans, plans, and physically solves the cube using a LEGO Mindstorms EV3 robot.
@@ -28,8 +51,7 @@ The physical robot design is based on the MindCub3r LEGO EV3 Rubik's Cube solver
 
 This project includes:
 
-- Cube scanning demonstration
-- Full solving process demonstration
+- Combined scanning and solving demonstration video
 - Sticker mapping and cube state diagrams
 
 See [assets/README.md](assets/README.md) for the visual references and media gallery.
