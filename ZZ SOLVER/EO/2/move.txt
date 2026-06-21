@@ -1,0 +1,66 @@
+Bi R B
+U R B U B
+B Li B
+F U2 F
+Fi U2 F
+U B Ui B
+U Bi Ui B
+U Fi Ri F
+Bi Ri B
+U B R B
+B L B
+F Ri F
+R B U B
+F U F
+Fi U F
+B Ui B
+Bi Ui B
+Fi Ri F
+U F R F
+B R B
+U Fi Li F
+Fi L F
+U F Ui F
+U Fi Ui F
+F R2 F
+Fi L2 F
+U F L F
+F R F
+U Bi Li B
+Fi Li F
+F Ui F
+Fi Ui F
+B U B
+Bi U B
+F L F
+U Bi Ri B
+Bi Li B
+U B L B
+R F U F
+R Fi Di F
+L U B L B
+D Fi Di F
+Fi Di F
+Fi D2 F
+Fi D F
+R U F R F
+R Bi Ui B
+D F Di F
+F Di F
+F D2 F
+F D F
+R B D B
+Fi R2 F
+Bi D B
+D Bi Di B
+Bi Di B
+F L2 F
+B D B
+D B Di B
+B Di B
+Fi R F
+D R F D F
+F Li F
+B Ri B
+R F D F
+Bi L B

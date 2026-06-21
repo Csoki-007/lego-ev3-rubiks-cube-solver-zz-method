@@ -1,0 +1,755 @@
+R U R2
+Ui R U2 R2
+U Ri Ui R2 U R2 U Ri
+R2 U R2
+U R2
+Ri U R2
+U2 Ri Ui R Ui R2
+R U2 Ri U R Ui R2
+R U Ri Ui R U Ri U Ri
+R U2 R U R U Ri
+U2 R2 Ui R2 Ui R2
+Ri U Ri U R Ui Ri
+U Ri Ui R Ui Ri U Ri
+U2 Ri U2 R Ui R2
+Ui R Ui R U Ri Ui R2 U Ri
+R U2 Ri U2 R Ui R2
+U Ri U2 Ri U2 Ri
+Ri U Ri U2 Ri U2 Ri
+U Ri Ui Ri Ui Ri Ui R2
+R U Ri U Ri Ui Ri
+Ui R U2 Ri U Ri Ui Ri
+R2 U Ri U Ri Ui Ri
+U Ri U Ri Ui Ri
+Ri U Ri U Ri Ui Ri
+R U2 Ri Ui R Ui R2
+R U2 R2 Ui R2 Ui R2
+R2 U2 Ri U R Ui R2
+Ri U2 R Ui R U Ri Ui R2
+U Ri U R Ui Ri
+Ri U Ri U R2 Ui Ri
+Ri U2 Ri Ui R Ui R2
+U2 R U R U Ri
+U2 Ri U R Ui R2
+U Ri Ui R U Ri U Ri
+R2 U Ri U R Ui Ri
+Ri U2 R2 Ui R2 Ui R2
+R2 U2 Ri Ui R Ui R2
+R U Ri U R Ui Ri
+Ri U2 Ri U R Ui R2
+U2 R Ui R U Ri Ui R2
+R2 U2 R2 Ui R2 Ui R2
+U Ri U R2 Ui Ri
+R2 U2 R2 Ui Ri U Ri
+U2 R Ui Ri U2 Ri
+U Ri U R Ui R2 U2 R2 Ui R2
+Ri U2 R2 Ui Ri U Ri
+R U2 R2 Ui Ri U Ri
+U2 R2 Ui Ri U Ri
+U Ri U R2 U2 R2
+R2 U2 R U Ri
+U Ri U R U2 R2
+Ui Ri U2 Ri Ui R2
+Ui R U2 Ri Ui R2
+U Ri Ui R2
+Ui R2 Ui Ri U2 R2 U Ri
+U R2 Ui R Ui R2
+Ui R2 U2 R2 U R Ui R2
+Ri Ui R2 Ui R U Ri
+Ri U R2 Ui R Ui R2
+Ui R2 Ui R U Ri
+U R U2 R2 U R2 U2 R2
+R2 U R U2 R2 Ui R2
+U R2 U2 R Ui R2
+Ri U R U2 R2 Ui R2
+R U R U2 R2 Ui R2
+U R U2 R2 Ui R2
+Ri U2 Ri U2 R2 U Ri
+R Ui R U2 Ri Ui R2
+Ri U2 R U Ri
+Ri U R2 U R Ui R2
+R U Ri Ui R2
+U R U R2 Ui R2
+Ri U Ri U R2 U2 R2
+Ri Ui Ri U2 Ri Ui R2
+R U2 R U Ri
+Ri U Ri U R U2 R2
+Ri U Ri Ui R2
+Ri Ui R U2 Ri Ui R2
+U2 Ri U2 R2 U Ri
+R2 U Ri Ui R2
+U2 R U Ri
+U R2 U R Ui R2
+R2 Ui R U2 Ri Ui R2
+U2 Ri Ui R2 U Ri
+Ri U Ri Ui R U R2 Ui R2
+Ui Ri Ui R U Ri Ui R Ui R2
+U Ri U2 Ri U2 R U Ri
+U Ri Ui R U R2 Ui R2
+R U Ri U Ri Ui R U Ri
+U Ri U Ri Ui R U Ri
+Ri U2 R Ui R U R2
+Ri U R2 U R2 U Ri
+Ri U2 Ri
+U R Ui Ri U Ri
+Ri U R2 U2 R2 U Ri
+Ri U2 R Ui Ri U R2
+Ui Ri Ui R Ui R U R2
+U R U2 Ri U Ri
+Ui Ri Ui Ri
+U Ri Ui Ri Ui R2
+Ri U R U2 Ri U Ri
+R U Ri Ui Ri Ui R2
+U2 R U R U R U Ri
+U R Ui R2 Ui Ri Ui R2
+U R U Ri U Ri
+Ui R U2 R U Ri U Ri
+Ui Ri U2 R U Ri U Ri
+Ui R2 U2 R U Ri U Ri
+U2 R Ui R U R2
+U R2 U2 R2 U Ri
+U R2 U R2 U Ri
+U2 Ri
+U2 R Ui Ri U R2
+U R2 Ui R2 U Ri
+R2 U2 R Ui R U R2
+Ri U R Ui Ri U Ri
+R2 U R2 U R2 U Ri
+R2 U2 Ri
+R2 U2 R Ui Ri U R2
+R2 U R2 U2 R2 U Ri
+R U2 R Ui R U R2
+R U2 R Ui Ri U R2
+R U R2 U R2 U Ri
+R U2 Ri
+R U R2 U2 R2 U Ri
+R U R2 Ui R2 U Ri
+Ri Ui Ri Ui Ri Ui R2
+Ui R U Ri U Ri Ui Ri
+Ri Ui R U2 Ri U Ri
+Ui R2 U Ri U Ri Ui Ri
+Ri U Ri Ui Ri
+Ui Ri U Ri U Ri Ui Ri
+Ri Ui R2 U R2 U Ri
+Ui R U R2
+U2 R U2 R2
+Ui R2 U R2
+R2
+Ui Ri U R2
+Ui R U Ri Ui R U Ri U Ri
+U Ri Ui R Ui R2
+Ui R U2 Ri U R Ui R2
+Ui R U2 R U R U Ri
+U R2 Ui R2 Ui R2
+Ui Ri U Ri U R Ui Ri
+Ri Ui R Ui R U2 R2 U Ri
+Ri Ui R Ui Ri U Ri
+U Ri U2 R Ui R2
+Ui R U2 Ri U2 R Ui R2
+Ri U2 Ri U2 Ri
+Ui Ri U Ri U2 Ri U2 Ri
+Ri Ui R U Ri Ui R U2 Ri
+Ui R U2 Ri Ui R Ui R2
+Ui R U2 R2 Ui R2 Ui R2
+Ui R2 U2 Ri U R Ui R2
+Ri U R Ui Ri
+Ui Ri U Ri U R2 Ui Ri
+Ri Ui R U Ri U Ri
+Ui Ri U2 Ri Ui R Ui R2
+U R U R U Ri
+U Ri U R Ui R2
+Ui R2 U Ri U R Ui Ri
+Ui Ri U2 R2 Ui R2 Ui R2
+U R Ui R U Ri Ui R2
+Ui R2 U2 Ri Ui R Ui R2
+Ui R U Ri U R Ui Ri
+Ui Ri U2 Ri U R Ui R2
+Ui R2 U2 R2 Ui R2 Ui R2
+Ri U R2 Ui Ri
+R U2 R2 U R2 U2 R2
+R U2 R2 U R U2 R2
+R2 U2 R Ui R2
+R U2 R2 U2 R U R2
+Ui R U R U2 R2 Ui R2
+R U2 R2 Ui R2
+Ri U R Ui R2 U2 R2 Ui R2
+Ui R2 U2 R2 Ui Ri U Ri
+U R Ui Ri U2 Ri
+Ui Ri U2 R2 Ui Ri U Ri
+Ui R U2 R2 Ui Ri U Ri
+U R2 Ui Ri U Ri
+Ri U R U2 R2
+Ri U R2 U2 R2
+Ri U2 R U R2
+Ri U Ri U2 R2
+U2 R U2 Ri Ui R2
+Ri Ui R2
+R Ui R2 U2 R U R2
+R Ui R2 U R2 U2 R2
+R2 Ui R Ui R2
+R Ui R2 U R U2 R2
+Ui Ri U R2 Ui R Ui R2
+R Ui R2 Ui R2
+R Ui R U2 R Ui R2
+R U R2 U R2 U2 R2
+R U R2 U2 R U R2
+Ui Ri U2 R U Ri
+Ui R U Ri Ui R2
+R U R2 Ui R2
+Ui Ri U Ri U R U2 R2
+Ui Ri U Ri U R2 U2 R2
+Ui Ri Ui Ri U2 Ri Ui R2
+Ui R U2 R U Ri
+Ui Ri U Ri Ui R2
+Ri Ui Ri U Ri Ui Ri
+R2 U R Ui R2
+U Ri U2 R2 U Ri
+Ui R2 U Ri Ui R2
+U R U Ri
+R Ui R U R Ui R2
+U Ri Ui R2 U Ri
+U R U R U R U Ri
+R Ui R2 Ui Ri Ui R2
+R U Ri U Ri
+Ri Ui R Ui R2 Ui R2
+U2 Ri U2 R U Ri U Ri
+R U R Ui R2 U Ri
+Ri U2 Ri U2 R U Ri
+Ri Ui R U R2 U R2 U2 R2
+Ri Ui R U R2 U2 R U R2
+Ri Ui R U R2 Ui R2
+Ri Ui R Ui R U2 R Ui R2
+Ri U Ri Ui R U Ri
+Ui Ri U2 Ri
+Ui Ri U2 R Ui R U R2
+R Ui R U2 R2 U Ri
+R Ui Ri U Ri
+Ui Ri U R2 U2 R2 U Ri
+R Ui R Ui R2 U Ri
+U2 Ri Ui Ri
+Ri Ui Ri U Ri U2 R2
+R U2 Ri U Ri
+Ri Ui Ri Ui R2
+Ri Ui Ri U R U2 R2
+Ri U R U2 Ri Ui R2
+U Ri
+U R Ui R U R2
+R2 U2 R2 U Ri
+R2 U R2 U Ri
+U R Ui Ri U R2
+R2 Ui R2 U Ri
+Ui R2 U2 Ri
+Ui R2 U2 R Ui R U R2
+R U2 Ri Ui R2 U2 Ri
+R U Ri Ui R2 U2 Ri
+Ri Ui R U2 R2 Ui R2
+R2 Ui R2 Ui R2 U2 Ri
+Ui R U2 Ri
+Ri U R Ui R U Ri
+R U2 Ri Ui R U2 Ri
+R U Ri Ui R U2 Ri
+R Ui Ri Ui R U2 Ri
+Ui R U R2 Ui R2 U Ri
+Ri U R2 U Ri Ui R2 U Ri
+Ri Ui Ri Ui R2 Ui R2
+Ri U2 R Ui R2
+Ri U2 R U R2 U2 R2
+R2 U2 R2 Ui R2
+Ri U2 R U Ri U2 R2
+Ui Ri Ui R U2 Ri U Ri
+Ui Ri Ui Ri Ui Ri Ui R2
+R Ui R U2 R U Ri
+U R2 U2 Ri U Ri Ui Ri
+Ui Ri U Ri Ui Ri
+R Ui Ri U Ri Ui R2
+U R U2 R2
+R U2 R U2 Ri Ui R2
+U2 R U R2
+U R2 U2 R2
+Ui R2
+U Ri U2 R2
+Ri Ui R U2 R U R2
+Ri Ui R2 U2 R U2 Ri Ui R2
+Ri Ui R Ui R2
+Ri Ui R U R2 U2 R2
+R2 Ui R2 Ui R2
+Ri Ui R U Ri U2 R2
+U R Ui R2 U2 R2 Ui R2
+R Ui R U2 R2 Ui Ri U Ri
+U2 R U2 Ri Ui R Ui R2
+R U R Ui Ri U2 Ri
+Ui Ri U R Ui Ri
+U Ri Ui R2 U R2 Ui R2
+Ri U R Ui R2
+R U Ri Ui R2 U Ri
+Ri Ui Ri U2 R2 Ui R2
+R U R U Ri
+Ri U R U R2 U2 R2
+Ri U R U Ri U2 R2
+Ri U Ri U R2 Ui R2
+R Ui R U Ri Ui R2
+Ri Ui Ri U R2 Ui R2
+Ri U2 Ri U R2 Ui R2
+R2 U R2 U R2 U2 R2
+R2 U R2 Ui R2
+Ui R Ui R2 U2 R U R2
+Ri U2 R2 Ui Ri U2 Ri
+R2 U Ri U Ri
+Ui R Ui R2 U R U2 R2
+Ri Ui R2 U2 Ri Ui Ri
+Ui R Ui R2 Ui R2
+R Ui R2 U2 Ri
+Ri U2 R2 Ui R2 U2 Ri
+Ri U R2 Ui R2 U2 Ri
+Ui R U2 R2 U2 R U R2
+Ri Ui R2 Ui R2 U2 Ri
+Ui R U2 R2 Ui R2
+R Ui Ri U2 Ri
+Ri U R Ui Ri U R U2 R2
+Ri U R2 U2 Ri Ui Ri
+U Ri Ui R2 Ui Ri U Ri
+Ri Ui R2 Ui R U2 Ri
+R2 Ui Ri U Ri
+R U2 Ri Ui Ri
+Ui Ri U R U2 R2
+R2 U2 Ri U Ri
+Ui Ri U Ri U2 R2
+U R U2 Ri Ui R2
+Ui Ri Ui R2
+U2 Ri U2 R U Ri
+Ui R Ui R U2 R Ui R2
+Ui R U R2 U R2 U2 R2
+Ui R U R2 U2 R U R2
+U Ri Ui R U Ri
+Ui R U R2 Ui R2
+R Ui R U2 Ri
+U R U2 R2 U R Ui R2
+Ri U2 R2 U2 Ri Ui Ri
+Ri U R2 Ui Ri U2 Ri
+U R Ui R U Ri
+Ri U Ri Ui Ri U Ri
+R U Ri
+Ui R2 U R Ui R2
+Ri U2 R2 U Ri
+Ri U R2 U Ri
+R U R Ui R U R2
+Ri Ui R2 U Ri
+U Ri Ui Ri
+Ui Ri Ui Ri U Ri U2 R2
+Ui R U2 Ri U Ri
+Ui Ri Ui Ri Ui R2
+Ui Ri Ui Ri U R U2 R2
+Ui Ri U R U2 Ri Ui R2
+Ui R U Ri U Ri
+R U R U R U Ri
+R U Ri U R Ui R2
+Ui Ri Ui R Ui R2 Ui R2
+U Ri U2 R U Ri U Ri
+Ui R U R Ui R2 U Ri
+Ui Ri Ui R U R2 U2 R U R2
+Ri Ui R U R2 Ui Ri
+R Ui R U2 Ri U R Ui R2
+R U Ri Ui R Ui R2
+Ri U R2 U Ri U2 R Ui R2
+Ui Ri U Ri Ui R U Ri
+Ui R Ui R U2 R2 U Ri
+U2 Ri U2 Ri
+R U Ri U2 R Ui R2
+Ui R Ui Ri U Ri
+U R2 U2 R Ui Ri U Ri
+Ui R Ui R Ui R2 U Ri
+Ui R2 U R2 U Ri
+Ri
+R Ui R U R2
+R U2 R U2 R2
+R Ui Ri U R2
+R Ui R2 U R2
+Ui R U Ri Ui R2 U2 Ri
+U R2 Ui Ri
+U R2 Ui R Ui R U R2
+Ui R U2 Ri Ui R2 U2 Ri
+Ui Ri Ui R U2 R2 Ui R2
+Ui R2 Ui R2 Ui R2 U2 Ri
+Ui R U Ri Ui R U2 Ri
+U R Ui Ri
+Ui Ri U R Ui R U Ri
+Ui R U2 Ri Ui R U2 Ri
+Ui R Ui Ri Ui R U2 Ri
+U R Ui R Ui R2 U R2
+R Ui R2 Ui R2 Ui R2
+Ui Ri Ui R2 U2 R U2 Ri Ui R2
+Ui Ri Ui R Ui R2
+R2 Ui R2 Ui R2 Ui R2
+Ui R2 Ui R2 Ui R2
+Ri Ui R2 Ui R2 Ui R2
+Ui Ri U2 R Ui R2
+R Ui R U Ri Ui R2 U Ri
+Ui Ri Ui Ri Ui R2 Ui R2
+R Ui Ri U R Ui R2
+Ui R2 U2 R2 Ui R2
+Ri U2 Ri U R Ui Ri
+Ui R Ui R U2 R U Ri
+R U2 Ri U Ri Ui Ri
+U2 Ri Ui Ri Ui Ri Ui R2
+R2 U2 Ri U Ri Ui Ri
+U2 Ri U Ri Ui Ri
+Ri U2 Ri U Ri Ui Ri
+U R U R2
+R U2 R2
+Ui R U2 R U2 Ri Ui R2
+R2 U2 R2
+U2 R2
+Ri U2 R2
+R Ui Ri U2 R Ui R2
+R Ui R2 U2 R2 Ui R2
+Ri Ui R Ui R U Ri Ui R2
+U R U2 Ri Ui R Ui R2
+U2 Ri U R Ui Ri
+Ri Ui R2 U R2 Ui R2
+Ui R U R U Ri
+Ui Ri U R Ui R2
+Ui R U Ri Ui R2 U Ri
+Ui Ri Ui Ri U2 R2 Ui R2
+R2 U2 Ri U R Ui Ri
+Ri Ui R2 U2 R2 Ui R2
+Ri Ui R U R U Ri
+R U2 Ri U R Ui Ri
+Ui R Ui R U Ri Ui R2
+Ui Ri Ui Ri U R2 Ui R2
+R2 Ui R2 U2 R2 Ui R2
+Ui R2 U R2 Ui R2
+R2 U2 Ri Ui R2
+U2 Ri U R U2 R2
+Ui R2 U2 Ri U Ri
+Ri U2 Ri Ui R2
+R U2 Ri Ui R2
+U2 Ri Ui R2
+Ui R2 U Ri U Ri
+R2 U2 R2 U R Ui R2
+R2 Ui Ri U2 R2 U Ri
+Ri U2 R U R2 Ui R2
+Ri U Ri U2 R U Ri
+R2 Ui R U Ri
+Ui Ri U R2 Ui R2 U2 Ri
+Ui R Ui R2 U2 Ri
+Ui Ri U2 R2 Ui R2 U2 Ri
+Ri U2 R U2 R2 Ui R2
+Ri Ui R Ui R2 U2 Ri
+U2 R U2 R2 Ui R2
+Ui Ri U R2 U2 Ri Ui Ri
+Ui R Ui Ri U2 Ri
+Ui Ri U R Ui Ri U R U2 R2
+Ri Ui R2 Ui Ri U Ri
+Ri Ui R Ui Ri U2 Ri
+Ui R2 Ui Ri U Ri
+Ri Ui Ri U R2 U Ri
+U Ri U2 R U Ri
+Ri U2 R2 U R Ui R2
+Ri Ui Ri U2 R2 U Ri
+Ri Ui R U Ri
+U2 R U R2 Ui R2
+Ri Ui R2 U Ri U Ri
+Ui R Ui R U2 Ri
+R U2 R2 U R Ui R2
+R Ui Ri U2 R2 U Ri
+R Ui R U Ri
+R2 U Ri U2 R U Ri
+Ui Ri U R2 U Ri
+Ui R U Ri
+U2 R2 U R Ui R2
+Ui Ri U2 R2 U Ri
+R U Ri U2 R U Ri
+Ui Ri Ui R2 U Ri
+Ri U2 R Ui Ri U Ri
+U Ri U2 Ri
+Ui R U Ri U2 R Ui R2
+U2 R Ui Ri U Ri
+R2 U2 R Ui Ri U Ri
+R U2 R Ui Ri U Ri
+U2 R U2 Ri U Ri
+Ri Ui Ri
+Ri Ui R Ui R U R2
+U2 Ri Ui Ri Ui R2
+Ri U2 R2 U R2 U Ri
+Ri Ui R Ui Ri U R2
+Ui R U Ri U R Ui R2
+U2 R U Ri U Ri
+Ui R U R U R U Ri
+R U2 R U Ri U Ri
+Ri U2 R U Ri U Ri
+R2 U2 R U Ri U Ri
+Ui R Ui R U2 Ri U R Ui R2
+Ri Ui R U Ri Ui R Ui R2
+Ui Ri Ui R U R2 Ui Ri
+Ui R U Ri Ui R Ui R2
+R U2 Ri U Ri Ui R U Ri
+U2 Ri U Ri Ui R U Ri
+Ui R U2 R U2 R2
+U2 R2 U R2 U Ri
+Ui Ri
+Ui R Ui R U R2
+Ui R Ui Ri U R2
+Ui R Ui R2 U R2
+Ri U2 R U2 Ri U Ri
+Ri U2 Ri Ui Ri Ui R2
+R2 Ui Ri
+R2 Ui R Ui R U R2
+R2 Ui R Ui Ri U R2
+R2 U2 R2 U R2 U Ri
+R Ui R U2 R U2 R2
+R Ui R Ui Ri U R2
+R Ui Ri
+R Ui R Ui R U R2
+R U2 R2 U R2 U Ri
+R Ui R Ui R2 U R2
+R Ui Ri Ui Ri U R U2 R2
+R Ui Ri Ui Ri U Ri U2 R2
+R Ui R U2 Ri U Ri
+R U Ri Ui Ri
+R Ui Ri U R U2 Ri Ui R2
+R Ui Ri Ui Ri Ui R2
+Ui R Ui R U2 Ri U Ri
+R U R2 Ui R Ui R U R2
+R Ui R U2 Ri Ui R2 U2 Ri
+R U R2 Ui Ri
+R Ui R2 Ui R2 Ui R2 U2 Ri
+Ui R Ui Ri Ui Ri Ui R2
+Ui R Ui R U2 Ri Ui R2 U2 Ri
+U R2 U Ri U2 R Ui R2
+R2 Ui R U2 Ri U R Ui R2
+Ui R U R2 Ui Ri
+Ri U Ri U Ri U2 R Ui R2
+R2 U Ri Ui R Ui R2
+R Ui R Ui R U2 R2 U Ri
+R U R2 U2 R Ui Ri U Ri
+R2 U Ri U2 R Ui R2
+R U2 Ri U2 Ri
+R Ui R Ui R Ui R2 U Ri
+R Ui R Ui Ri U Ri
+R Ui R U Ri U Ri
+Ui R Ui R U Ri U Ri
+R2 U R U R U Ri
+R2 U Ri U R Ui R2
+Ri Ui R2 Ui R U Ri U Ri
+R Ui Ri Ui R Ui R2 Ui R2
+Ri Ui R2 Ui R U2 Ri U Ri
+R U R Ui R Ui R2 U R2
+R Ui Ri U R Ui R U Ri
+R Ui R U2 Ri Ui R U2 Ri
+R U R Ui Ri
+Ri Ui R2 Ui Ri Ui Ri Ui R2
+Ui R2 U2 R U2 R2
+R2 Ui Ri U R2
+R2 Ui R U R2
+R2 U2 R U2 R2
+R2 Ui R2 U R2
+Ri U2 R2 Ui R2
+Ui Ri Ui R2 Ui R2
+U2 R Ui R2
+U R2 U Ri Ui R2 U Ri
+U2 R U Ri U2 R2
+U2 R U R2 U2 R2
+U R Ui R2
+Ui Ri U2 R2 Ui R2
+R2 U R U Ri
+R2 U Ri Ui R2 U Ri
+U R U Ri U2 R2
+U R U R2 U2 R2
+R U R U2 R2
+R Ui R2
+R U2 R U R2
+R2 U2 R U2 Ri Ui R2
+R U Ri U2 R2
+R U R2 U2 R2
+Ui R U2 R U R2
+Ri Ui R2 Ui R2
+Ui R Ui R2
+Ui R2 U2 R U2 Ri Ui R2
+Ui R U Ri U2 R2
+Ui R U R2 U2 R2
+Ui R2 Ui R U2 R U Ri
+R Ui Ri U Ri Ui Ri
+Ui R Ui Ri U Ri Ui Ri
+R2 Ui R U2 R U Ri
+R2 Ui Ri U Ri Ui R2
+R U R2 U2 Ri U Ri Ui Ri
+U Ri U R2 Ui R2
+Ri U R2 Ui R2
+Ui Ri U R2 Ui R2
+U2 Ri U R2 Ui R2
+R2 Ui R U Ri Ui R2
+Ri U R2 U R2 U2 R2
+Ui R2 U R Ui Ri U2 Ri
+R Ui Ri U R Ui Ri
+Ui R Ui Ri U R Ui Ri
+R2 U R Ui Ri U2 Ri
+R2 Ui R U2 R2 Ui Ri U Ri
+Ri U2 Ri U R Ui Ri U2 Ri
+Ui R2 U2 Ri Ui Ri
+U2 R2 Ui Ri U2 Ri
+Ri U Ri U Ri
+Ui R Ui Ri U R U2 R2
+Ui R Ui Ri Ui R2
+Ui R Ui Ri U Ri U2 R2
+R2 Ui R U2 Ri
+U2 R2 U2 Ri Ui Ri
+U R2 Ui Ri U2 Ri
+U2 R Ui Ri U R U2 R2
+U Ri Ui Ri U Ri
+R U R Ui R U Ri
+R2 Ui Ri U2 Ri
+Ui R2 Ui R U2 Ri
+U R2 U2 Ri Ui Ri
+U R Ui Ri U R U2 R2
+Ri Ui Ri U Ri
+Ui R U R Ui R U Ri
+R2 U2 Ri Ui Ri
+Ui R2 Ui Ri U2 Ri
+Ri U2 Ri U Ri
+R Ui Ri U R U2 R2
+R Ui Ri Ui R2
+R Ui Ri U Ri U2 R2
+R2 Ui R2 U2 Ri
+Ui R2 Ui R2 U2 Ri
+U2 R2 Ui R2 U2 Ri
+U R2 Ui R2 U2 Ri
+Ri Ui Ri Ui R2 U2 Ri
+R Ui R U2 R2 U2 R U R2
+R2 U Ri
+Ui R2 U Ri
+U2 R2 U Ri
+U R2 U Ri
+R Ui R2 U R Ui R2
+R2 U R Ui R U R2
+R U2 Ri U2 R U Ri
+R U Ri Ui R U Ri
+Ui R U Ri Ui R U Ri
+U R U2 Ri U2 R U Ri
+R Ui R Ui R U2 R Ui R2
+R Ui R U R2 Ui R2
+U2 R2 U2 R U R2
+U2 R2 U R U2 R2
+R U2 R Ui R2
+U2 R2 Ui R2
+U2 R2 U R2 U2 R2
+U Ri Ui R U Ri Ui R2
+Ui R U2 R Ui R2
+U R2 U2 R U R2
+U R2 U R U2 R2
+U R2 Ui R2
+U R2 U R2 U2 R2
+Ri Ui R U Ri Ui R2
+R2 U R U2 R2
+R2 U Ri U2 R2
+R2 U2 R U R2
+R2 Ui R2
+R2 U R2 U2 R2
+Ri U2 R U2 Ri Ui R2
+Ui R2 U2 R U R2
+Ui R2 U R U2 R2
+R Ui R Ui R2
+Ui R2 Ui R2
+Ui R2 U R2 U2 R2
+Ui Ri U2 R U2 Ri Ui R2
+R U R Ui R2
+Ui R U R Ui R2
+U Ri U R U Ri
+Ri U R U Ri
+Ri U Ri U2 R2 U Ri
+Ri U Ri Ui R2 U Ri
+Ui Ri U R Ui Ri U2 Ri
+U2 Ri U R Ui Ri U2 Ri
+U Ri U R Ui Ri U2 Ri
+Ri U R Ui Ri U2 Ri
+Ri U R2 Ui Ri U Ri
+Ri Ui R U2 R2 Ui Ri U Ri
+Ui Ri Ui R U2 R U Ri
+Ri Ui Ri U Ri Ui R2
+Ui Ri Ui Ri U Ri Ui R2
+Ri Ui R U2 R U Ri
+R2 Ui Ri U Ri Ui Ri
+Ri Ui Ri U Ri U R2 U2 R2
+Ui Ri U2 Ri Ui Ri
+Ui R2 Ui Ri Ui R2
+U Ri U Ri
+U R Ui R2 U Ri
+Ui R2 Ui Ri U Ri U2 R2
+Ui R2 Ui Ri U R U2 R2
+Ri U Ri
+R U2 R2 U Ri
+R U R2 U Ri
+R Ui R2 U Ri
+Ri U R Ui R U R2
+Ri U R Ui Ri U R2
+Ri Ui Ri U2 Ri
+Ui Ri U Ri
+Ui R U2 R2 U Ri
+Ui R Ui R2 U Ri
+Ui Ri U R Ui R U R2
+Ui Ri U R Ui Ri U R2
+Ri U2 Ri Ui Ri
+R2 Ui Ri Ui R2
+U2 Ri U Ri
+U2 R Ui R2 U Ri
+R2 Ui Ri U Ri U2 R2
+R2 Ui Ri U R U2 R2
+Ri Ui R U2 Ri
+Ui Ri Ui R U2 Ri
+U2 Ri Ui R U2 Ri
+U Ri Ui R U2 Ri
+R2 U R Ui R U Ri
+Ri Ui R U R2 Ui R2 U Ri
+R2 U2 Ri U2 R U Ri
+R2 Ui R U R2 Ui R2
+Ui R2 Ui R U R2 Ui R2
+U R2 U2 Ri U2 R U Ri
+R2 U Ri Ui R U Ri
+R2 Ui R Ui R U2 R Ui R2
+Ri Ui R2 U2 Ri
+Ui Ri Ui R2 U2 Ri
+U2 Ri Ui R2 U2 Ri
+U Ri Ui R2 U2 Ri
+R Ui R2 Ui R2 U2 Ri
+Ri Ui R2 U2 R Ui R U R2
+Ri Ui R2 U Ri U Ri Ui Ri
+Ri Ui R U Ri U Ri Ui Ri
+R2 Ui R U2 Ri U Ri
+Ri Ui Ri U Ri U Ri Ui Ri
+R2 Ui Ri Ui Ri Ui R2
+R2 U Ri Ui Ri
+Ui R2 Ui R U2 Ri U Ri
+Ri Ui R U2 R2 Ui R2 Ui R2
+Ri Ui R2 U2 Ri U R Ui R2
+Ri Ui Ri U Ri U R2 Ui Ri
+Ui R2 Ui Ri Ui Ri Ui R2
+R2 U R Ui Ri
+Ui Ri Ui R2 U2 Ri U R Ui R2
+U Ri U Ri U2 R Ui R2
+Ri Ui R U2 Ri U R Ui R2
+Ri Ui Ri U Ri U R Ui Ri
+Ri U Ri Ui R Ui R2
+Ui R2 U R Ui Ri
+R2 Ui R Ui R U2 R2 U Ri
+Ri Ui R U2 Ri U2 R Ui R2
+Ri U Ri U2 R Ui R2
+Ri Ui Ri U Ri U2 Ri U2 Ri
+R2 Ui R Ui Ri U Ri
+R2 U2 Ri U2 Ri
+Ri U R Ui R U Ri Ui R2
+Ri Ui R2 U2 R2 Ui R2 Ui R2
+Ri Ui R U Ri U R Ui Ri
+Ri Ui Ri U2 Ri U R Ui R2
+Ri Ui R2 U2 Ri Ui R Ui R2
+R2 U R2 Ui Ri
+Ui Ri U2 R U2 R2
+Ri Ui R2 U R2
+Ri Ui R U R2
+Ri U2 R U2 R2
+Ri Ui Ri U R2
+R
+R2 Ui R U Ri U Ri
+Ui R2 Ui R U Ri U Ri
+Ri U R U R U Ri
+Ri U Ri U R Ui R2
+Ri Ui Ri U2 R2 Ui R2 Ui R2
+Ri Ui Ri U2 Ri Ui R Ui R2

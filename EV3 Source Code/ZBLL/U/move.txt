@@ -1,0 +1,288 @@
+Ri Ui R Ui Ri U2 R2 Ui Li U Ri Ui L
+Fi Ui F Ui Fi U2 F2 Ui Bi U Fi Ui B
+Li Ui L Ui Li U2 L2 Ui Ri U Li Ui R
+Bi Ui B Ui Bi U2 B2 Ui Fi U Bi Ui F
+L Ui Ri U Li U L U2 Li Ui L Ui Li R
+B Ui Fi U Bi U B U2 Bi Ui B Ui Bi F
+R Ui Li U Ri U R U2 Ri Ui R Ui Ri L
+F Ui Bi U Fi U F U2 Fi Ui F Ui Fi B
+Ri U Li U R Ui L U2 Ri U R
+Fi U Bi U F Ui B U2 Fi U F
+Li U Ri U L Ui R U2 Li U L
+Bi U Fi U B Ui F U2 Bi U B
+B2 D Bi U B Di B2 U B U2 Bi
+R2 D Ri U R Di R2 U R U2 Ri
+F2 D Fi U F Di F2 U F U2 Fi
+L2 D Li U L Di L2 U L U2 Li
+F U2 F2 Di F U2 Fi D F2 Ui Fi U2 F U2 Fi
+L U2 L2 Di L U2 Li D L2 Ui Li U2 L U2 Li
+B U2 B2 Di B U2 Bi D B2 Ui Bi U2 B U2 Bi
+R U2 R2 Di R U2 Ri D R2 Ui Ri U2 R U2 Ri
+L2 D Li U2 L Di Li U2 Li
+B2 D Bi U2 B Di Bi U2 Bi
+R2 D Ri U2 R Di Ri U2 Ri
+F2 D Fi U2 F Di Fi U2 Fi
+R U Ri Fi Ui F2 D Ri U Ri Ui R Di Fi
+F U Fi Li Ui L2 D Fi U Fi Ui F Di Li
+L U Li Bi Ui B2 D Li U Li Ui L Di Bi
+B U Bi Ri Ui R2 D Bi U Bi Ui B Di Ri
+Ri Ui R U R U Ri Ui Ri U F R U R Ui Ri Fi
+Fi Ui F U F U Fi Ui Fi U L F U F Ui Fi Li
+Li Ui L U L U Li Ui Li U B L U L Ui Li Bi
+Bi Ui B U B U Bi Ui Bi U R B U B Ui Bi Ri
+Bi Ui F Ui B U Fi U Bi Ui B Ui Bi U B
+Ri Ui L Ui R U Li U Ri Ui R Ui Ri U R
+Fi Ui B Ui F U Bi U Fi Ui F Ui Fi U F
+Li Ui R Ui L U Ri U Li Ui L Ui Li U L
+B2 U Ri B2 Ui B2 Ui B2 U2 B2 Ui R Ui B2
+R2 U Fi R2 Ui R2 Ui R2 U2 R2 Ui F Ui R2
+F2 U Li F2 Ui F2 Ui F2 U2 F2 Ui L Ui F2
+L2 U Bi L2 Ui L2 Ui L2 U2 L2 Ui B Ui L2
+Fi Ui F Ui B Ui Fi U2 Bi U2 F Ui B U2 Bi
+Li Ui L Ui R Ui Li U2 Ri U2 L Ui R U2 Ri
+Bi Ui B Ui F Ui Bi U2 Fi U2 B Ui F U2 Fi
+Ri Ui R Ui L Ui Ri U2 Li U2 R Ui L U2 Li
+R F2 Ui R2 Ui R U2 Ri Ui R Ui R U F2 Ri
+F L2 Ui F2 Ui F U2 Fi Ui F Ui F U L2 Fi
+L B2 Ui L2 Ui L U2 Li Ui L Ui L U B2 Li
+B R2 Ui B2 Ui B U2 Bi Ui B Ui B U R2 Bi
+R2 Di L F2 Li D R U2 R
+F2 Di B L2 Bi D F U2 F
+L2 Di R B2 Ri D L U2 L
+B2 Di F R2 Fi D B U2 B
+B2 Di B Ui Bi D B2 Ui Bi U2 B
+R2 Di R Ui Ri D R2 Ui Ri U2 R
+F2 Di F Ui Fi D F2 Ui Fi U2 F
+L2 Di L Ui Li D L2 Ui Li U2 L
+L U Li U L U2 L2 U R Ui L U Ri
+B U Bi U B U2 B2 U F Ui B U Fi
+R U Ri U R U2 R2 U L Ui R U Li
+F U Fi U F U2 F2 U B Ui F U Bi
+Ri U L Ui R U Li R U Ri U R U2 Ri
+Fi U B Ui F U Bi F U Fi U F U2 Fi
+Li U R Ui L U Ri L U Li U L U2 Li
+Bi U F Ui B U Fi B U Bi U B U2 Bi
+R2 Di R U2 Ri D R U2 R
+F2 Di F U2 Fi D F U2 F
+L2 Di L U2 Li D L U2 L
+B2 Di B U2 Bi D B U2 B
+Bi U B U2 Fi B Ui F U B2 U2 Fi U2 F B
+Ri U R U2 Li R Ui L U R2 U2 Li U2 L R
+Fi U F U2 Bi F Ui B U F2 U2 Bi U2 B F
+Li U L U2 Ri L Ui R U L2 U2 Ri U2 R L
+B U Bi Ui Fi U2 B U F U Bi U Fi U F
+R U Ri Ui Li U2 R U L U Ri U Li U L
+F U Fi Ui Bi U2 F U B U Fi U Bi U B
+L U Li Ui Ri U2 L U R U Li U Ri U R
+R Ui Ri D Ri Ui R Di R2 U Ri Ui Ri U2 Ri
+F Ui Fi D Fi Ui F Di F2 U Fi Ui Fi U2 Fi
+L Ui Li D Li Ui L Di L2 U Li Ui Li U2 Li
+B Ui Bi D Bi Ui B Di B2 U Bi Ui Bi U2 Bi
+Ri U2 F U Fi R F U2 Ri Ui R U Fi
+Fi U2 L U Li F L U2 Fi Ui F U Li
+Li U2 B U Bi L B U2 Li Ui L U Bi
+Bi U2 R U Ri B R U2 Bi Ui B U Ri
+B U Fi U Bi Ui F Ui B U Bi U B Ui Bi
+R U Li U Ri Ui L Ui R U Ri U R Ui Ri
+F U Bi U Fi Ui B Ui F U Fi U F Ui Fi
+L U Ri U Li Ui R Ui L U Li U L Ui Li
+Fi U F Ui Fi Ui F U Fi Ui F U Fi Ui Bi U F Ui B
+Li U L Ui Li Ui L U Li Ui L U Li Ui Ri U L Ui R
+Bi U B Ui Bi Ui B U Bi Ui B U Bi Ui Fi U B Ui F
+Ri U R Ui Ri Ui R U Ri Ui R U Ri Ui Li U R Ui L
+F U Fi U Bi U F U2 B U2 Fi U Bi U2 B
+L U Li U Ri U L U2 R U2 Li U Ri U2 R
+B U Bi U Fi U B U2 F U2 Bi U Fi U2 F
+R U Ri U Li U R U2 L U2 Ri U Li U2 L
+R Ui R2 Ui R2 U Ri Fi R U R2 Ui Ri F R2
+F Ui F2 Ui F2 U Fi Li F U F2 Ui Fi L F2
+L Ui L2 Ui L2 U Li Bi L U L2 Ui Li B L2
+B Ui B2 Ui B2 U Bi Ri B U B2 Ui Bi R B2
+Fi R Ui R Fi Ri U R Fi Ui Fi U F2 R2 F
+Li F Ui F Li Fi U F Li Ui Li U L2 F2 L
+Bi L Ui L Bi Li U L Bi Ui Bi U B2 L2 B
+Ri B Ui B Ri Bi U B Ri Ui Ri U R2 B2 R
+L2 F Ui Fi Ui F U Fi Li F U Fi Ui Fi L F L2
+B2 L Ui Li Ui L U Li Bi L U Li Ui Li B L B2
+R2 B Ui Bi Ui B U Bi Ri B U Bi Ui Bi R B R2
+F2 R Ui Ri Ui R U Ri Fi R U Ri Ui Ri F R F2
+F Li U Li F L Ui Li F U F Ui F2 L2 Fi
+L Bi U Bi L B Ui Bi L U L Ui L2 B2 Li
+B Ri U Ri B R Ui Ri B U B Ui B2 R2 Bi
+R Fi U Fi R F Ui Fi R U R Ui R2 F2 Ri
+L U F2 Di F Ui Fi D F2 Li Fi U F
+B U L2 Di L Ui Li D L2 Bi Li U L
+R U B2 Di B Ui Bi D B2 Ri Bi U B
+F U R2 Di R Ui Ri D R2 Fi Ri U R
+Fi Ui F L F2 Di F U Fi D F2 Ui Li
+Li Ui L B L2 Di L U Li D L2 Ui Bi
+Bi Ui B R B2 Di B U Bi D B2 Ui Ri
+Ri Ui R F R2 Di R U Ri D R2 Ui Fi
+L U Ri U Li U2 R Ui Ri L U Li U2 R
+B U Fi U Bi U2 F Ui Fi B U Bi U2 F
+R U Li U Ri U2 L Ui Li R U Ri U2 L
+F U Bi U Fi U2 B Ui Bi F U Fi U2 B
+R Ui Ri U R Ui L U Li U B2 R B2 R2
+F Ui Fi U F Ui B U Bi U R2 F R2 F2
+L Ui Li U L Ui R U Ri U F2 L F2 L2
+B Ui Bi U B Ui F U Fi U L2 B L2 B2
+Fi U2 Fi Ui Li U L F2 Ui Fi L Fi Li F2
+Li U2 Li Ui Bi U B L2 Ui Li B Li Bi L2
+Bi U2 Bi Ui Ri U R B2 Ui Bi R Bi Ri B2
+Ri U2 Ri Ui Fi U F R2 Ui Ri F Ri Fi R2
+B L2 U Li D L2 Di L Ui L2 Bi L Ui Li
+R B2 U Bi D B2 Di B Ui B2 Ri B Ui Bi
+F R2 U Ri D R2 Di R Ui R2 Fi R Ui Ri
+L F2 U Fi D F2 Di F Ui F2 Li F Ui Fi
+F2 Di F U2 Fi D F U2 F U Fi U2 F U Fi U F
+L2 Di L U2 Li D L U2 L U Li U2 L U Li U L
+B2 Di B U2 Bi D B U2 B U Bi U2 B U Bi U B
+R2 Di R U2 Ri D R U2 R U Ri U2 R U Ri U R
+L U Li B L2 U Li D L2 Di L Ui L2 Bi
+B U Bi R B2 U Bi D B2 Di B Ui B2 Ri
+R U Ri F R2 U Ri D R2 Di R Ui R2 Fi
+F U Fi L F2 U Fi D F2 Di F Ui F2 Li
+L U Li Ui Ri U2 L U Li U2 L R Ui Li
+B U Bi Ui Fi U2 B U Bi U2 B F Ui Bi
+R U Ri Ui Li U2 R U Ri U2 R L Ui Ri
+F U Fi Ui Bi U2 F U Fi U2 F B Ui Fi
+F U2 Fi Ui F Ui F Di F U2 Fi D F U2 F
+L U2 Li Ui L Ui L Di L U2 Li D L U2 L
+B U2 Bi Ui B Ui B Di B U2 Bi D B U2 B
+R U2 Ri Ui R Ui R Di R U2 Ri D R U2 R
+Ri Ui R F Ui Ri Ui R U Fi U Ri U R
+Fi Ui F L Ui Fi Ui F U Li U Fi U F
+Li Ui L B Ui Li Ui L U Bi U Li U L
+Bi Ui B R Ui Bi Ui B U Ri U Bi U B
+L2 B2 L U2 L U L2 B2 L2 U Li B2 L
+B2 R2 B U2 B U B2 R2 B2 U Bi R2 B
+R2 F2 R U2 R U R2 F2 R2 U Ri F2 R
+F2 L2 F U2 F U F2 L2 F2 U Fi L2 F
+L U2 Li U2 Ri U2 L U2 Li U2 R
+B U2 Bi U2 Fi U2 B U2 Bi U2 F
+R U2 Ri U2 Li U2 R U2 Ri U2 L
+F U2 Fi U2 Bi U2 F U2 Fi U2 B
+Ri U2 R U2 L U2 Ri U2 R U2 Li
+Fi U2 F U2 B U2 Fi U2 F U2 Bi
+Li U2 L U2 R U2 Li U2 L U2 Ri
+Bi U2 B U2 F U2 Bi U2 B U2 Fi
+F R Ui Ri U R U Ri U R Ui Ri Fi
+L F Ui Fi U F U Fi U F Ui Fi Li
+B L Ui Li U L U Li U L Ui Li Bi
+R B Ui Bi U B U Bi U B Ui Bi Ri
+Ri Li U R Ui Ri L Ui R U2 R U R2 U R2 U2 Ri
+Fi Bi U F Ui Fi B Ui F U2 F U F2 U F2 U2 Fi
+Li Ri U L Ui Li R Ui L U2 L U L2 U L2 U2 Li
+Bi Fi U B Ui Bi F Ui B U2 B U B2 U B2 U2 Bi
+Fi U2 F U2 Bi U B U2 Fi U F Ui Bi U B
+Li U2 L U2 Ri U R U2 Li U L Ui Ri U R
+Bi U2 B U2 Fi U F U2 Bi U B Ui Fi U F
+Ri U2 R U2 Li U L U2 Ri U R Ui Li U L
+F U2 Fi U2 B Ui Bi U2 F Ui Fi U B Ui Bi
+L U2 Li U2 R Ui Ri U2 L Ui Li U R Ui Ri
+B U2 Bi U2 F Ui Fi U2 B Ui Bi U F Ui Fi
+R U2 Ri U2 L Ui Li U2 R Ui Ri U L Ui Li
+Li Fi U L U Li U2 L U Li F L
+Bi Li U B U Bi U2 B U Bi L B
+Ri Bi U R U Ri U2 R U Ri B R
+Fi Ri U F U Fi U2 F U Fi R F
+R F Ui Ri Ui R U2 Ri Ui R Fi Ri
+F L Ui Fi Ui F U2 Fi Ui F Li Fi
+L B Ui Li Ui L U2 Li Ui L Bi Li
+B R Ui Bi Ui B U2 Bi Ui B Ri Bi
+Ri D R2 Ui Ri Ui R U2 R2 Di R
+Fi D F2 Ui Fi Ui F U2 F2 Di F
+Li D L2 Ui Li Ui L U2 L2 Di L
+Bi D B2 Ui Bi Ui B U2 B2 Di B
+L F U Fi Ui F U Fi Ui L2 Bi Ui B U L
+B L U Li Ui L U Li Ui B2 Ri Ui R U B
+R B U Bi Ui B U Bi Ui R2 Fi Ui F U R
+F R U Ri Ui R U Ri Ui F2 Li Ui L U F
+R U Ri Li U2 R Ui Ri Ui R Ui Ri L
+F U Fi Bi U2 F Ui Fi Ui F Ui Fi B
+L U Li Ri U2 L Ui Li Ui L Ui Li R
+B U Bi Fi U2 B Ui Bi Ui B Ui Bi F
+Ri U2 R F Ui Ri Ui R U Fi
+Fi U2 F L Ui Fi Ui F U Li
+Li U2 L B Ui Li Ui L U Bi
+Bi U2 B R Ui Bi Ui B U Ri
+F U R U2 Ri U R U Ri U R U2 Ri U R U Ri Fi
+L U F U2 Fi U F U Fi U F U2 Fi U F U Fi Li
+B U L U2 Li U L U Li U L U2 Li U L U Li Bi
+R U B U2 Bi U B U Bi U B U2 Bi U B U Bi Ri
+Ri Fi R U R U Ri Ui Ri Ui Ri F R U R U R Ui Ri
+Fi Li F U F U Fi Ui Fi Ui Fi L F U F U F Ui Fi
+Li Bi L U L U Li Ui Li Ui Li B L U L U L Ui Li
+Bi Ri B U B U Bi Ui Bi Ui Bi R B U B U B Ui Bi
+F U2 Fi Bi U F Ui Fi B Ui F Ui Fi
+L U2 Li Ri U L Ui Li R Ui L Ui Li
+B U2 Bi Fi U B Ui Bi F Ui B Ui Bi
+R U2 Ri Li U R Ui Ri L Ui R Ui Ri
+B U Bi Fi U2 B U Bi F U Fi U F
+R U Ri Li U2 R U Ri L U Li U L
+F U Fi Bi U2 F U Fi B U Bi U B
+L U Li Ri U2 L U Li R U Ri U R
+L U2 Li Fi U L U Li Ui F
+B U2 Bi Li U B U Bi Ui L
+R U2 Ri Bi U R U Ri Ui B
+F U2 Fi Ri U F U Fi Ui R
+R B U Bi Ui Ri Bi R B2 Li B2 Ri B2 L Bi
+F R U Ri Ui Fi Ri F R2 Bi R2 Fi R2 B Ri
+L F U Fi Ui Li Fi L F2 Ri F2 Li F2 R Fi
+B L U Li Ui Bi Li B L2 Fi L2 Bi L2 F Li
+L Ui Fi U F U Li Fi U2 F
+B Ui Li U L U Bi Li U2 L
+R Ui Bi U B U Ri Bi U2 B
+F Ui Ri U R U Fi Ri U2 R
+L U Li U Ri L U Li Ui R Ui L Ui Li
+B U Bi U Fi B U Bi Ui F Ui B Ui Bi
+R U Ri U Li R U Ri Ui L Ui R Ui Ri
+F U Fi U Bi F U Fi Ui B Ui F Ui Fi
+Fi Ui F U Fi U F U2 Fi U F U2 Fi Ui F
+Li Ui L U Li U L U2 Li U L U2 Li Ui L
+Bi Ui B U Bi U B U2 Bi U B U2 Bi Ui B
+Ri Ui R U Ri U R U2 Ri U R U2 Ri Ui R
+Ri Ui R Ui Ri U2 R Ui Ri U2 R U Ri U R
+Fi Ui F Ui Fi U2 F Ui Fi U2 F U Fi U F
+Li Ui L Ui Li U2 L Ui Li U2 L U Li U L
+Bi Ui B Ui Bi U2 B Ui Bi U2 B U Bi U B
+B U2 Bi Ui B Ui Bi Ui B U Bi U B U2 Bi
+R U2 Ri Ui R Ui Ri Ui R U Ri U R U2 Ri
+F U2 Fi Ui F Ui Fi Ui F U Fi U F U2 Fi
+L U2 Li Ui L Ui Li Ui L U Li U L U2 Li
+Bi Ui R Bi Ri B2 Ui Bi U Ri U R B
+Ri Ui F Ri Fi R2 Ui Ri U Fi U F R
+Fi Ui L Fi Li F2 Ui Fi U Li U L F
+Li Ui B Li Bi L2 Ui Li U Bi U B L
+Bi U2 B U Bi U B U Bi Ui B Ui Bi U2 B
+Ri U2 R U Ri U R U Ri Ui R Ui Ri U2 R
+Fi U2 F U Fi U F U Fi Ui F Ui Fi U2 F
+Li U2 L U Li U L U Li Ui L Ui Li U2 L
+B U2 B2 Ui B2 Ui Bi U Bi Ui B U Bi U B
+R U2 R2 Ui R2 Ui Ri U Ri Ui R U Ri U R
+F U2 F2 Ui F2 Ui Fi U Fi Ui F U Fi U F
+L U2 L2 Ui L2 Ui Li U Li Ui L U Li U L
+L U Li U Li U2 L2 U L2 U L2 Ui Li
+B U Bi U Bi U2 B2 U B2 U B2 Ui Bi
+R U Ri U Ri U2 R2 U R2 U R2 Ui Ri
+F U Fi U Fi U2 F2 U F2 U F2 Ui Fi
+Ri Ui R Ui R U2 R2 Ui R2 Ui R2 U R
+Fi Ui F Ui F U2 F2 Ui F2 Ui F2 U F
+Li Ui L Ui L U2 L2 Ui L2 Ui L2 U L
+Bi Ui B Ui B U2 B2 Ui B2 Ui B2 U B
+Ri Ui R Ui Ri U2 R2 U Ri U R U2 Ri
+Fi Ui F Ui Fi U2 F2 U Fi U F U2 Fi
+Li Ui L Ui Li U2 L2 U Li U L U2 Li
+Bi Ui B Ui Bi U2 B2 U Bi U B U2 Bi
+L U Li U L U2 L2 Ui L Ui Li U2 L
+B U Bi U B U2 B2 Ui B Ui Bi U2 B
+R U Ri U R U2 R2 Ui R Ui Ri U2 R
+F U Fi U F U2 F2 Ui F Ui Fi U2 F
+R2 F2 Ri Bi R F2 R2 F R B Ri Fi
+F2 L2 Fi Ri F L2 F2 L F R Fi Li
+L2 B2 Li Fi L B2 L2 B L F Li Bi
+B2 R2 Bi Li B R2 B2 R B L Bi Ri
+Bi U2 B U Bi U B F U2 Fi Ui F Ui Fi
+Ri U2 R U Ri U R L U2 Li Ui L Ui Li
+Fi U2 F U Fi U F B U2 Bi Ui B Ui Bi
+Li U2 L U Li U L R U2 Ri Ui R Ui Ri

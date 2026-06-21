@@ -1,0 +1,131 @@
+Ui L2 D B2
+U2 F2 B2
+U R2 Di B2
+U R2 L Di
+Ui Ri L2 D
+Ui R L2 D
+U R2 Li Di
+B2 D2
+Ui L2 D
+U2 F2
+U R2 Di
+R2 Di B2
+U L2 Di F2
+U F2 B2
+R2 L Di
+U Ri D F2
+U R D F2
+R2 Li Di
+U D2 F2
+U D F2
+U F2
+R2 Di
+F2 B2
+R2 D F2
+L2 Di F2
+L Di F2
+Ri D F2
+R D F2
+Li Di F2
+D2 F2
+D F2
+F2
+Di F2
+L2 D B2
+Ui F2 B2
+Ui R2 D F2
+Ui L Di F2
+Ri L2 D
+R L2 D
+Ui Li Di F2
+U B2 D2
+L2 D
+Ui F2
+Ui Di F2
+L D B2
+R2 L D
+Ui R2 L D
+U L D B2
+Ri L D
+R L D
+L U D B2
+D L D
+L D
+Di L D
+D2 L D
+Ri Di B2
+Ui Ri Di B2
+U Ri L2 Di
+Ri L2 Di
+Ri L Di
+R U D F2
+Ri Li Di
+Di Ri Di
+D2 Ri Di
+D Ri Di
+Ri Di
+R Di B2
+Ui R Di B2
+U R L2 Di
+R L2 Di
+R L Di
+R Ui Di B2
+R Li Di
+Di R Di
+D2 R Di
+D R Di
+R Di
+Li D B2
+R2 Li D
+Ui R2 Li D
+U Li D B2
+L Ui Di F2
+Ri Li D
+R Li D
+D Li D
+Li D
+Di Li D
+D2 Li D
+B2
+Ui B2
+U2 B2
+U B2
+D L Di
+Di Ri D
+Di R D
+D Li Di
+R2 Ui B2
+L2 U B2
+Di B2
+Ui Di B2
+U L2 Di
+L2 Di
+L Di
+D2 Ri D
+D2 R D
+Li Di
+Di L2 U B2
+R2 U F2
+Di
+D2 B2
+U F2 D2
+F2 D2
+U D2 B2
+Di L Di
+D Ri D
+D R D
+Di Li Di
+D2
+D L2 Ui F2
+Di R2 U F2
+D B2
+R2 D
+Ui R2 D
+U D B2
+D2 L Di
+Ri D
+R D
+D2 Li Di
+D R2 Ui B2
+D
+L2 Ui F2

@@ -1,0 +1,990 @@
+F2 B2 Ui Di B2
+B2 Ui F2 Di B2
+B2 Ui Di L B2
+U D F2 D2 R2 L
+B2 Ui Di Li B2
+Ui Di Li B2 R
+B2 Ui Di B2
+R2 U D R2 F2
+B2 U2 L2 Di L2
+U L2 F2 Di R2
+B2 D F2 D2 L2
+U L2 Di R2 Li
+B2 D Ri F2 D2
+B2 U L2 Di L
+U L2 Di R2 L
+U L2 Di R2
+B2 U2 F2 Di B2
+U R2 U F2 B2
+U F2 Di R2 B2
+L2 F2 B2 Di
+B2 L2 Di Li
+U Di R2 B2 Li
+L2 B2 Di Li
+L2 B2 Di L
+L2 B2 Di
+L2 B2 Ui Di L2
+L2 B2 Di L2
+U L F2 Di R2
+L F2 B2 Di
+L B2 Di L
+L F2 B2 Di L
+L B2 Di Li
+L B2 Di L2
+L B2 Di
+D2 L B2 R Di
+B2 L Di Li
+U F2 L Di R2
+F2 L B2 Di
+F2 L B2 Di L
+B2 D2 Ri D L
+F2 L B2 Di Li
+F2 L B2 Di L2
+B2 D2 Ri D
+Ri D2 R B2 Di
+F2 B2 L Di Li
+B2 U Li F2 Di
+F2 B2 Li Di
+B2 Li Di Li
+B2 Li Di L2
+F2 B2 Li Di L2
+L B2 Li Di Li
+B2 Li Di
+U2 R F2 L D
+B2 Li Di L
+U Li F2 Di R2
+Li F2 B2 Di
+L B2 L2 Di Li
+Li B2 Di L2
+Li F2 B2 Di L
+Li B2 Di Li
+Li B2 Di
+Li B2 Ui Di L2
+Li B2 Di L
+R2 U D2 R2 F2
+Di F2 B2 Di F2
+Di L2 U R2 B2
+Di L D Li B2 Di
+Ri Di R B2 Di
+R Di Ri B2 Di
+Di Li D L B2 Di
+B2 D2 B2 D B2
+U R2 U F2 U2 B2
+U R2 U L2 F2
+F2 B2 Di B2
+B2 Di L2 B2
+B2 Di L B2
+R2 U R2 F2 L
+B2 Di Li B2
+B2 Di B2 Li
+B2 Di B2
+U R2 U F2
+U F2 Di R2
+F2 B2 Di
+B2 Di L2
+B2 Di L
+F2 B2 Di L
+B2 Di Li
+U Di R2 Li
+B2 Di
+B2 Ui Di L2
+F2 Di R2 B2
+Di R2 L2 B2
+Di R2 L B2
+Di R2 B2 Li
+Di B2 R2 Li
+Di R2 Li B2
+Di R2 B2
+D R2 B2 U2 F2
+R2 B2 U F2
+U L2 U2 B2 Di L2
+D F2 D2 R2 L2
+D F2 Ri D2 Ri
+D Ri F2 L D2
+D R F2 D2 R
+U2 Di Li B2 R
+D F2 D2 R2
+Di R2 U2 L2 B2
+R2 U F2 U B2
+L2 Ui B2 Di L2
+L2 F2 Di R2
+L2 Di R2 Li
+Di R2 U B2 Li
+R2 U F2 L B2
+L2 Di R2 L
+L2 Di R2
+L2 Di R2 U2 L2
+R2 U F2 B2
+Ui L B2 Di L
+L F2 Di R2
+L Di R2 L
+L D Ri D2 Ri
+Ui L B2 Di Li
+L Di R2 L2
+L Di R2
+L Di R2 U2 L2
+L Di R2 Li
+D2 Ri B2 D Ri
+F2 L Di R2
+Ui F2 L B2 Di
+D2 Ri D Ri L
+Ui F2 L B2 Di Li
+D2 Ri D Ri Li
+D2 Ri D Ri
+Ri D Ri U F2
+F2 L Di R2 Li
+Ui B2 Li Di Li
+F2 Ui B2 Li Di
+Ui F2 B2 Li Di
+Ui B2 Li Di L2
+Ui B2 Li F2 Di L
+D2 R D R Li
+Ui B2 Li Di
+U R F2 L D
+Ui B2 Li Di L
+D2 B2 R D R
+Li F2 Di R2
+Li Di R2 Li
+Li Di R2 L2
+Li D Ri D2 Ri
+Ui Li B2 Di Li
+Li Di R2
+Li Di R2 U2 L2
+Li Di R2 L
+D2 B2 D R2 B2
+Di F2 Di R2 F2
+Di R2 L2 U B2
+Di R2 L2 U Li B2
+Ri Di R Di R2
+R Di Ri Di R2
+Di R2 L2 U L B2
+D R2 Ui B2 U2 F2
+R2 U F2 U2 B2
+Ui B2 Di L2 B2
+R2 U L2 F2
+R2 L2 U F2
+R2 U L F2
+Di R2 Ui B2 Li
+R2 U F2 L
+R2 U Li F2
+Ui B2 Di B2
+R2 U F2
+Ui B2 Di L2
+F2 Di R2
+Di R2 L2
+Di R2 L
+D Ri D2 Ri
+Ui B2 Di Li
+Di R2 Li
+Di R2
+Di R2 U2 L2
+U F2 U2 L2 Di R2
+Ui L2 F2 Di R2
+Ui L2 Di R2 Li
+D2 F2 D L B2
+Di B2 Ui R2 Li
+Ui L2 Di R2 L
+Ui L2 Di R2
+R F2 L D B2
+Ui R2 U F2 B2
+Ui Di R2 L2 B2
+Ui F2 Di R2 B2
+Ui Di R2 L B2
+Ui Di R2 B2 Li
+Ui Di B2 R2 Li
+Ui Di R2 Li B2
+Ui Di R2 B2
+R F2 R L D
+Ui R2 B2 U F2
+L2 Ui Di R2 L2
+L2 U2 B2 Di L2
+L2 Ui Di R2 Li
+L2 D2 F2 D L
+L2 U2 B2 Di Li
+U Di Li B2 R
+L2 Ui Di R2
+U D L2 D2 L2 B2
+L2 Ui F2 Di R2
+Ui L Di R2 L
+U L F2 Di Ri
+Ui L F2 Di R2
+D2 F2 Ri D L
+U2 L B2 Di Li
+Ui L Di R2 L2
+Ui L Di R2
+R F2 Ri L D
+Ui L Di R2 Li
+U2 F2 L B2 Di
+D2 Ri F2 D L
+Ui F2 L Di R2
+Ui D2 Ri D Ri L
+U2 F2 L B2 Di Li
+D2 Ri F2 D Li
+D2 Ri F2 D
+R F2 R2 L D
+Di Ri F2 D F2
+U2 F2 B2 Li Di
+U2 B2 Li Di Li
+D2 R F2 D L2
+U2 B2 Li Di L2
+D2 F2 R D L
+D2 R F2 D Li
+U2 B2 Li Di
+R F2 L D
+U2 B2 Li Di L
+Ui Li Di R2 Li
+Li U2 B2 Di L2
+Ui Li F2 Di R2
+Ui Li Di R2 L2
+Li D2 F2 D L
+U2 Li B2 Di Li
+Ui Li Di R2
+Ui Li Di R2 U2 L2
+Ui Li Di R2 L
+D2 F2 B2 D B2
+R2 U L2 D2 F2
+D2 L2 Ui R2 F2
+Di L2 U Li B2 R
+Ui Ri D2 Ri U F2
+R D F2 L D
+Di Li Di F2 Ri D
+F2 Di F2 D2 F2
+U L2 D2 L2 Ui F2
+Ui R2 L2 U F2
+U2 B2 Di L2 B2
+Ui R2 U L2 F2
+Ui R2 U L F2
+Di F2 D L F2
+Ui R2 U F2 L
+Ui R2 U Li F2
+U2 B2 Di B2
+Ui R2 U F2
+Ui Di R2 L2
+U2 B2 Di L2
+Ui F2 Di R2
+Ui Di R2 L
+D2 F2 D L
+U2 B2 Di Li
+Ui Di R2 Li
+Ui Di R2
+U D L2 D2 L2
+D R2 L2 D2 B2
+L F2 Di Ri B2
+D L2 D2 Li B2
+D Ri L2 D2 B2
+D R L2 D2 B2
+Di Li B2 R
+D L2 D2 B2
+D L2 D2 L2 B2
+Li Di B2 R L
+U2 L2 F2 Di R2
+F2 U2 L2 Di R2
+U2 L2 Di R2 Li
+U B2 D Ri F2 D2
+U B2 U2 Di Li B2
+U2 L2 Di R2 L
+U2 L2 Di R2
+R2 U2 L2 D R2
+U2 R2 U F2 B2
+U2 F2 Di R2 B2
+U L2 F2 B2 Di
+U B2 L2 Di Li
+U2 Di R2 B2 Li
+U L2 B2 Di Li
+U L2 B2 Di L
+U L2 B2 Di
+D L2 F2 D2 L2
+U L2 B2 Di L2
+U2 L F2 Di R2
+U L F2 B2 Di
+L F2 Di Ri
+L D Ri L D2
+U L B2 Di Li
+U L B2 Di L2
+U L B2 Di
+L D L D2 Li
+U B2 L Di Li
+U2 F2 L Di R2
+U F2 L B2 Di
+L F2 L Di Ri
+U B2 D2 Ri D L
+U F2 L B2 Di Li
+U F2 L B2 Di L2
+U B2 D2 Ri D
+U Ri D2 R B2 Di
+U2 F2 L Di R2 Li
+U B2 U Li F2 Di
+U F2 B2 Li Di
+U B2 Li Di Li
+U B2 Li Di L2
+U B2 Li F2 Di L
+Ui D2 R F2 D Li
+U B2 Li Di
+Ui R F2 L D
+U B2 Li Di L
+U2 Li F2 Di R2
+U Li F2 B2 Di
+L F2 L2 Di Ri
+U Li B2 Di L2
+Li D Ri Li D2
+U Li B2 Di Li
+U Li B2 Di
+Li D Li D2 L
+U Li B2 Di L
+U R2 U D2 R2 F2
+R2 L2 U D2 F2
+L2 Di F2 Di F2
+D2 L2 Ui Li F2 Ri
+Ri L2 Di R Di
+R L2 Di Ri Di
+Di L2 U L B2 R
+D L2 D2 L2 U B2
+L2 D2 L2 Ui F2
+U2 R2 U L2 F2
+U F2 B2 Di B2
+U B2 Di L2 B2
+U B2 Di L B2
+U R2 U R2 F2 L
+U B2 Di Li B2
+U B2 Di B2 Li
+U B2 Di B2
+U2 R2 U F2
+U2 F2 Di R2
+U F2 B2 Di
+U B2 Di L2
+U B2 Di L
+D Ri L2 D2
+U B2 Di Li
+U2 Di R2 Li
+U B2 Di
+D L2 D2 L2
+D R2 L D2 B2
+F2 Di Ri B2
+Di L2 B2 R
+D Ri L D2 B2
+D R L D2 B2
+D L D2 L2 B2
+D L D2 B2
+D L D2 Li B2
+R2 B2 U F2 Ri
+Ui Di L2 B2 R
+F2 Ui Di Ri B2
+Ui F2 Di Ri B2
+U D Ri L F2 D2
+U D R L F2 D2
+U D L F2 D2 L2
+U D L F2 D2
+R2 U D F2 Ri
+Ui R2 B2 U F2 Ri
+U2 F2 Di Ri B2
+U F2 L2 Di Ri
+D L F2 Ri D2
+D Ri L F2 D2
+D R L F2 D2
+D L F2 D2 L2
+D L F2 D2
+D L F2 D2 Li
+U R2 U F2 Ri B2
+L2 D2 B2 D R
+U F2 Di Ri B2
+F2 L2 Di Ri
+L2 D Ri Li D2
+L2 D R Li D2
+L2 D Li D2 L2
+L2 D Li D2
+L2 D Li D2 L
+R2 U F2 Ri B2
+U2 F2 L Di Ri
+U F2 L Di Ri
+F2 L Di Ri
+Ui F2 L Di Ri
+D R U L F2 D2
+F2 L Di Ri L2
+D L D Ri D
+D L D Ri D Li
+F2 L Di Ri Li
+U2 F2 Di Ri Ui B2
+U F2 Di Ri Ui B2
+F2 Di Ri Ui B2
+Ui F2 Di Ri Ui B2
+D Ri U L F2 D2
+D L D R D L2
+D L D R D
+R F2 L D Ri
+Di R F2 D Ri F2
+U2 F2 Li Di Ri
+U F2 Li Di Ri
+F2 Li Di Ri
+Ui F2 Li Di Ri
+Li D Ri L2 D2
+Li U B2 Di Li
+Li U B2 Di
+Li D L2 D2 L2
+Li U B2 Di L
+U R2 U D2 F2 Ri
+R2 U D2 F2 Ri
+Di F2 Di Ri F2
+Di L2 U B2 R
+Ri L Di R Di
+R L Di Ri Di
+L D2 L2 Ui F2
+F2 U2 Di Ri B2 Li
+R L Di Ri Di Li
+Ui B2 Di L2 B2 R
+U R2 U F2 Ri L2
+R2 U F2 Ri L2
+B2 Di L2 B2 R
+Di F2 D Ri L F2
+R2 U F2 Ri L
+R2 U F2 Ri Li
+D L Di Li Di
+R2 U F2 Ri
+U2 F2 Di Ri
+U F2 Di Ri
+F2 Di Ri
+Ui F2 Di Ri
+D Ri L D2
+D R L D2
+D L D2 L2
+D L D2
+D L D2 Li
+D R2 D2 R B2
+Di Ri B2 U L2
+Di Ri L2 B2
+Di Ri L B2
+Di B2 Ri Li
+Di Ri Li B2
+Di Ri B2
+Di Ri B2 Li
+Ui L2 Di Ri L2
+Ui Di Ri L2 B2
+U Di Ri L2 U2 B2
+Di L2 Ui Ri B2
+Ui Di Ri L B2
+Ui Di B2 Ri Li
+Ui Di Ri Li B2
+Ui Di Ri B2
+Ui Di Ri B2 Li
+U2 L2 Di Ri L2
+U L2 U2 Di Ri L2
+U2 Di Ri L2 B2
+D F2 L D2 L
+U L2 Di Ri Li
+U2 Di B2 Ri Li
+U L2 Di Ri L
+U L2 Di Ri
+U2 Di Ri B2 Li
+U L2 Di Ri L2
+L2 Ui Di Ri L2
+L2 U2 Di Ri L2
+U Di Ri L2 B2
+L2 Di Ri Li
+U Di B2 Ri Li
+L2 Di Ri L
+L2 Di Ri
+U Di Ri B2 Li
+L2 Di Ri L2
+Ui L Di Ri L
+U2 L Di Ri L
+U L Di Ri L
+L Di Ri L
+L D R D2 R2
+L Di Ri L2
+L Di Ri
+Di Ri B2 Li U B2
+L Di Ri Li
+Di Ri Ui L2 B2
+Ui Di Ri Ui L2 B2
+U Di Ri L2 Ui B2
+Di Ri L2 Ui B2
+Di Ri Ui L B2
+Di Ri Ui Li B2
+Di Ri Ui B2
+Di Ri Ui B2 Li
+B2 Li Di Ri L
+Ui Li Di Ri Li
+U2 Li Di Ri Li
+U Li Di Ri Li
+Li Di Ri Li
+Li Di Ri L2
+Li D R D2 R2
+Li Di Ri
+Di L U Ri B2 Li
+Li Di Ri L
+D2 B2 D Ri B2
+R2 U D2 R F2
+Di F2 Di F2 Ri
+Di Ri L2 U B2
+Di Ri L2 U Li B2
+R Di Ri Di Ri
+Di Ri L2 U L B2
+Di L2 U Ri B2 Li
+R2 U D2 R F2 L
+Ri Di B2 Li D
+R2 U R F2 L
+Ri D R F2 Di
+Ri D R Di L2
+Ri D R Di L
+R2 U F2 R L
+Ri D R Di Li
+B2 Di Ri B2
+Ri D R Di
+Ui Di Ri L2
+U2 Di Ri L2
+U Di Ri L2
+Di Ri L2
+Di Ri L
+D R D2 R2
+Di Ri Li
+Di Ri
+D L D2 Ri Li
+Di R B2 Li
+F2 Di R B2
+Di R L2 B2
+Di R L B2
+D Ri D2 R2 B2
+Di R Li B2
+Di R B2
+D R B2 U2 F2
+Ui L2 Di R L2
+Ui Di R L2 B2
+Ui Di R B2 Li
+Ui F2 Di R B2
+Ui Di R L B2
+U D Ri F2 D2 R2
+Ui Di R Li B2
+Ui Di R B2
+R2 U D Ri F2
+U2 L2 Di R L2
+U2 F2 Di R B2
+U L2 F2 Di R
+U2 Di R B2 Li
+U L2 Di R Li
+D Ri F2 D2 R2
+U L2 Di R L
+U L2 Di R
+Di F2 D2 R F2
+U L2 Di R L2
+U Di R B2 Li
+U F2 Di R B2
+L2 F2 Di R
+L2 Di R Li
+L2 D Ri D2 R2
+L2 Di R L
+L2 Di R
+U D R B2 U2 F2
+L2 Di R L2
+Ui L Di R L
+U L F2 Di R
+L F2 Di R
+L Di R L
+L D Ri D2 R2
+L Di R L2
+L Di R
+D2 L D2 Li D R
+L Di R Li
+U2 F2 L Di R
+U F2 L Di R
+F2 L Di R
+Ui F2 L Di R
+Di R Ui L B2
+Di R Ui Li B2
+Di R Ui B2
+Ri D2 R Di R
+F2 L Di R Li
+Ui Li Di R Li
+U Li F2 Di R
+Li F2 Di R
+Li Di R Li
+Li Di R L2
+Li D Ri D2 R2
+Li Di R
+D2 Li D2 L D R
+Li Di R L
+D2 B2 D B2 R
+R2 U D2 Ri F2
+Di F2 Di R F2
+Di R L2 U B2
+Di R L2 U Li B2
+Ri Di R Di R
+Di R L2 U L B2
+F2 Di F2 D2 R F2
+Di F2 Di R F2 L
+R2 U Ri F2 L
+U R D Ri F2 Di
+R D Ri F2 Di
+R D Ri Di L2
+R D Ri Di L
+D Ri D2 R2 Ui B2
+R D Ri Di Li
+B2 Di B2 R
+R D Ri Di
+Ui Di R L2
+U F2 Di R
+F2 Di R
+Di R L2
+Di R L
+D Ri D2 R2
+Di R Li
+Di R
+D L D2 R Li
+D R2 D2 B2 R
+F2 Di B2 R
+Di B2 R L2
+Di B2 R L
+D Ri D2 B2 R
+Di B2 R Li
+Di B2 R
+D Li D2 L B2
+Di B2 Ui R L2
+Ui Di B2 R L2
+F2 Ui Di B2 R
+Ui F2 Di B2 R
+Ui Di B2 R L
+U D Ri Li F2 D2
+Ui Di B2 R Li
+Ui Di B2 R
+U Di F2 Li D2 F2
+Ui Di B2 Ui R L2
+U2 F2 Di B2 R
+U L2 F2 Di Ri
+D Li F2 D2 Li
+U2 Di B2 R L
+D Ri Li F2 D2
+U2 Di B2 R Li
+U2 Di B2 R
+D Li F2 Ri D2
+U R2 U F2 B2 R
+L2 U2 F2 Di Ri
+U F2 Di B2 R
+L2 F2 Di Ri
+U Di B2 R L
+L2 D Ri L D2
+U Di B2 R Li
+U Di B2 R
+L2 D L D2 Li
+R2 U F2 B2 R
+L U2 F2 Di R2
+L U F2 B2 Di
+L U B2 Di L2
+L U B2 Di L
+L D Ri L2 D2
+L U B2 Di Li
+L U B2 Di
+L D L2 D2 L2
+L U2 Di R2 Li
+D2 Ri B2 D R
+U L2 F2 L Di Ri
+L2 F2 L Di Ri
+U D2 Ri B2 D R
+D Li D Ri D L2
+D R U Li F2 D2
+D Li D Ri D
+D Li D Ri D L
+Di B2 R Ui L2 B2
+D2 R B2 D R
+U F2 B2 Li Di R
+F2 B2 Li Di R
+B2 Li Di R Li
+B2 Li Di R L2
+D Ri U Li F2 D2
+B2 Li Di R
+D Li D R D L
+B2 Li Di R L
+D2 B2 D R B2
+R2 U Li D2 F2
+Li Di F2 Di F2
+D2 L2 Ui F2 Ri
+Li D2 L2 Ui F2
+Ri Li Di R Di
+R Li Di Ri Di
+F2 Di F2 Li D2 F2
+R Li Di Ri Di L
+U B2 Di R B2 Li
+B2 Di R B2 Li
+R2 U L2 F2 Ri
+R2 L2 U F2 Ri
+L U2 R2 U F2
+Di R2 Ui B2 R Li
+B2 Di R Li B2
+B2 Di R B2
+D2 Li D L D
+D2 B2 D R
+D R2 Li D2
+F2 D Li D2
+D Li D2 Li
+D Li D2 L2
+D Ri Li D2
+D R Li D2
+D Li D2
+D Li D2 L
+D R2 D2 R2 B2
+F2 Ui L2 Di R2
+D L2 B2 U2 F2
+Di L B2 R
+D Ri D2 R B2
+D R D2 Ri B2
+D Li B2 U2 F2
+D B2 U2 F2
+Li Di L B2 R
+Ri B2 Ri Li D
+R2 U D L2 F2
+R2 U B2 D F2
+Ui Di L B2 R
+U D Ri F2 D2 R
+R2 U D F2 L
+R2 U D Li F2
+R2 U D F2
+R2 U2 L2 D L2
+B2 Di F2 D2 F2
+D R2 F2 D2 R2
+Di L2 U2 R2 B2
+U2 Di L B2 R
+D Ri F2 D2 R
+D R F2 L D2
+Di F2 D2 Li F2
+Di F2 D2 F2
+U L2 Di L2 U2 R2
+U D R2 D2 R2 B2
+L2 D R2 D2 R2
+L2 F2 Ui Di R2
+U Di L B2 R
+L2 D Ri D2 R
+L2 D R D2 Ri
+U D Li B2 U2 F2
+U D B2 U2 F2
+L2 Di L2 U2 R2
+U2 L F2 Ui Di R2
+L D R2 D2 R2
+L F2 Ui Di R2
+Ui L F2 Ui Di R2
+L D Ri D2 R
+L D R D2 Ri
+L Di L2 U2 R2
+D2 L D2 Li D
+L D R D2 Ri Li
+Ri B2 Li D
+Ui Ri B2 Li D
+U2 Ri B2 Li D
+U Ri B2 Li D
+Ri D2 R Di L
+Ri Ui B2 Li D
+Ri D2 R Di Li
+Ri D2 R Di
+Ri B2 Li D L
+R B2 D2 Ri Di
+U R D2 Ri F2 Di
+R D2 Ri F2 Di
+R D2 Ri Di L2
+R D2 Ri Di L
+D Ri U F2 D2 R
+R D2 Ri Di Li
+R D2 Ri Di
+R L D2 Ri Di Li
+Ri B2 R Li D
+Li D R2 D2 R2
+D2 Li F2 Ri Di
+U Ri B2 R Li D
+Di L U B2 R
+Li D Ri D2 R
+Li D R D2 Ri
+D2 Li D2 L D
+R D Ri Li Di R
+Ri B2 Li D B2
+Ui Ri B2 Li D B2
+F2 U2 B2 Di B2
+U Ri B2 Li D B2
+B2 Di L B2 R
+F2 Ui R2 U L F2
+Ri Ui B2 Li D B2
+R D Ri Di R Li
+R D Ri Di R
+U D R2 D2 R2
+D R2 D2 R2
+F2 Ui Di R2
+Di L2 U2 R2
+D R D2 Ri L
+D Ri D2 R
+D R D2 Ri
+D R D2 Ri Li
+D R L D2 Ri Li
+D R2 D2 B2
+F2 Di B2
+Di L2 B2
+Di L B2
+D Ri D2 B2
+Di B2 Li
+Di Li B2
+Di B2
+Ui L2 Di L2
+Ui Di L2 B2
+F2 Ui Di B2
+Ui F2 Di B2
+Ui Di L B2
+U D Ri F2 D2
+Ui Di B2 Li
+Ui Di Li B2
+Ui Di B2
+U2 L2 Di L2
+U2 F2 Di B2
+U L2 F2 Di
+D F2 D2 L2
+U L2 Di Li
+D Ri F2 D2
+U2 Di B2 Li
+U L2 Di L
+U L2 Di
+U L2 Di L2
+L2 Ui Di L2
+U F2 Di B2
+L2 F2 Di
+L2 Di Li
+L2 D Ri D2
+U Di B2 Li
+L2 Di L
+L2 Di
+L2 Di L2
+Ui L Di L
+U L F2 Di
+L F2 Di
+L Di L
+L D Ri D2
+L D R D2
+L Di L2
+L Di
+L Di Li
+U2 F2 L Di
+U F2 L Di
+F2 L Di
+Ui F2 L Di
+D2 Ri D L
+D R U F2 D2
+D2 Ri D Li
+D2 Ri D
+F2 L Di Li
+D2 R B2 D
+U F2 D2 R D
+F2 D2 R D
+D2 R D L2
+D2 R D L
+D Ri U F2 D2
+D2 R D Li
+D2 R D
+D2 R Di Ri D2
+Ui Li Di Li
+U Li F2 Di
+Li F2 Di
+Li Di Li
+Li Di L2
+Li D Ri D2
+Li D R D2
+Li Di
+Li Di L
+D2 B2 D B2
+U F2 U L2 Di
+F2 U L2 Di
+Di L2 U B2
+Di L D Li Di
+D Ri D R D
+D R D Ri D
+Di Li D L Di
+L2 Di L2 U B2
+Ui Di L2
+U F2 Di
+F2 Di
+Di L2
+Di L
+D Ri D2
+D R D2
+Di Li
+Di
+R2 Di R2 Di B2
+Di F2 Di F2 B2
+Di L2 B2 U R2
+Di L B2 U R2
+Ri Di R Di B2
+Di B2 U R2 Li
+Di Li B2 U R2
+Di B2 U R2
+D B2 U2 F2 Ui R2
+D2 R2 B2 D R2
+F2 D2 R2 D R2
+D2 R2 D R2 L2
+D2 R2 D R2 L
+Ui Ri Di R Di B2
+Ui Di B2 U R2 Li
+D2 R2 D R2 Li
+D2 R2 D R2
+R2 D2 R2 Di R2
+U R2 U D2 F2 B2
+R2 F2 U D2 F2
+F2 D2 L2 Ui F2
+F2 Ri Di R Di
+Ri F2 Di R Di
+R F2 D L D
+U L2 U B2 Di L
+U L2 U B2 Di
+Di F2 D2 F2 Ui R2
+L2 U2 F2 Di R2
+R2 U D2 F2 B2
+Di L2 F2 Di F2
+L2 U2 Di R2 Li
+Ri Di R L2 Di
+R Di Ri L2 Di
+L2 U B2 Di L
+L2 U B2 Di
+L2 D L2 D2 L2
+L D2 B2 D R
+R2 Di R2 L Di
+Di L F2 Di F2
+L D Li D2 L2
+Ri Di R L Di
+R Di Ri L Di
+L D Li D2 Li
+L D Li D2
+L D Li D2 L
+D2 B2 Ri D R
+U Di F2 L Di F2
+Di F2 L Di F2
+D2 Ri D R L2
+D2 Ri D R L
+D2 Ri U2 D R L2
+D2 Ri D R Li
+D2 Ri D R
+Ri D2 R Di Ri
+D2 R B2 D Ri
+U B2 Li F2 Di Ri
+F2 D2 R D Ri
+D2 R D Ri L2
+D2 R D Ri L
+D2 R Ui B2 D Ri
+D2 R D Ri Li
+D2 R D Ri
+R D2 Ri Di R
+U2 Li F2 Di Ri
+U Li F2 Di Ri
+Li F2 Di Ri
+Ui Li F2 Di Ri
+Li Ui F2 Di Ri
+Ri Di R Li Di
+R Di Ri Li Di
+Li D L D2
+Li D L D2 Li
+U R2 U D2 F2
+R2 U D2 F2
+Di F2 Di F2
+D2 L2 Ui F2
+Di F2 Di F2 L
+Ri Di R Di
+R Di Ri Di
+Di F2 Di Li F2
+D L2 D L2 Ui F2
+Ui L2 U2 R2 U F2
+R2 Ui B2 D2 B2
+U L2 U2 R2 U F2
+L2 U2 R2 U F2
+R2 U Li F2 L2 Ri
+Ri B2 D Li D B2
+R B2 Di Ri Di B2
+R2 U Li F2 Ri
+L B2 Di R B2

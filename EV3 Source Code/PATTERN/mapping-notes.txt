@@ -1,0 +1,3 @@
+The easy checkerboard
+Anaconda
+Cube in a cube in a cube
