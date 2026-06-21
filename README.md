@@ -1,31 +1,10 @@
 # LEGO EV3 Rubik's Cube Solver Robot (ZZ Method)
 
-## TL;DR
+## Demo
 
-A LEGO EV3 Rubik's Cube solving robot system built with a custom Python ZZ-method solver and a full robot control pipeline.
+[![LEGO EV3 Rubik robot demo](assets/Video_thumbnail.jpg)](https://youtu.be/wWMvnwSBlZk)
 
-## Visual Preview
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="assets/mapping/cube-layout.png" alt="Cube layout" width="220" /><br />
-      <strong>Cube layout</strong>
-    </td>
-    <td align="center">
-      <img src="assets/mapping/edge-sticker-mapping.png" alt="Edge sticker mapping" width="220" /><br />
-      <strong>Edge mapping</strong>
-    </td>
-    <td align="center">
-      <img src="assets/mapping/corner-sticker-mapping.png" alt="Corner sticker mapping" width="220" /><br />
-      <strong>Corner mapping</strong>
-    </td>
-  </tr>
-</table>
-
-Watch the combined demo video here:
-
-- [YouTube demo video](https://youtu.be/wWMvnwSBlZk)
+See the robot in action on YouTube.
 
 ## About
 
@@ -33,28 +12,39 @@ This repository contains a custom ZZ-method Rubik's Cube solver and the EV3 Micr
 
 The physical robot design is based on the MindCub3r LEGO EV3 Rubik's Cube solver concept. The software stack in this repository, including the solver, EV3 control system, calibration, and solving workflow, is my own implementation built on top of that hardware inspiration.
 
-## My contribution
+## How it works
 
-- Implemented a custom ZZ-method Rubik's Cube solver in Python
-- Developed the EV3 MicroPython control system for robot execution
-- Designed the full solving workflow: scan, solve, and motor execution
-- Implemented cube state representation and move translation
-- Handled calibration and robot movement logic
+The project is split into two main parts:
+
+- `ZZ SOLVER/` - desktop Python code for the ZZ cube solver
+- `EV3 Source Code/` - EV3 MicroPython robot control system
+
+The overall workflow is:
+
+1. Scan the cube state
+2. Convert the scanned stickers into the internal cube representation
+3. Compute a solution with the ZZ solver
+4. Translate the solution into robot motor actions
+5. Execute the solve physically on the EV3 robot
 
 ## Repository Structure
 
 - `ZZ SOLVER/` - Python-based ZZ cube solver
 - `EV3 Source Code/` - MicroPython EV3 robot control system
-- `assets/` - demo videos and visual documentation
+- `assets/` - preview media and mapping images
 
-## Demo & Assets
+## Sticker mapping reference
 
-This project includes:
+| Cube layout | Edge sticker mapping | Corner sticker mapping |
+|---|---|---|
+| ![Cube layout](assets/mapping/cube-layout.png) | ![Edge sticker mapping](assets/mapping/edge-sticker-mapping.png) | ![Corner sticker mapping](assets/mapping/corner-sticker-mapping.png) |
 
-- Combined scanning and solving demonstration video
-- Sticker mapping and cube state diagrams
+## Building instructions
 
-See [assets/README.md](assets/README.md) for the visual references and media gallery.
+The robot build was based on the MindCub3r LEGO EV3 Rubik's Cube solver concept.
+
+- Project site: [MindCub3r](https://mindcuber.com/mindcub3r/mindcub3r.html)
+- Building instructions: [MindCub3r v1.0 PDF](https://mindcuber.com/mindcub3r/MindCub3r-v1p0.pdf)
 
 ## License
 
