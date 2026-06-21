@@ -3,3 +3,4 @@ __pycache__/
 assets/videos/*.mp4
 github_repo_ed25519
 github_repo_ed25519.pub
+.github_push_key
