@@ -1,7 +1,5 @@
 # LEGO EV3 Rubik's Cube Solver Robot (ZZ Method)
 
-## Project Showcase
-
 [![LEGO EV3 Rubik robot demo](assets/Video_thumbnail.jpg)](https://youtu.be/wWMvnwSBlZk)
 
 See the robot in action on YouTube:
